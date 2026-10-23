@@ -12,4 +12,5 @@ El modelo debe contemplar:
 - Estadísticas: registrar el rendimiento individual de cada jugador en cada partido, incluyendo bajas, muertes, asistencias y daño total infligido.
 
 Finalmente, se deben identificar las entidades, sus atributos, las relaciones y las cardinalidades, contemplando las relaciones muchos a muchos (N:M), la participación de los equipos en distintos torneos y el registro de estadísticas individuales por partido.
-<img width="1932" height="1352" alt="EJERCICIO 15 drawio" src="https://github.com/user-attachments/assets/6e8b64ec-960d-4476-ad78-25aa265aad4d" />
+<img width="1932" height="1352" alt="EJERCICIO 15 drawio" src="https://github.com/user-attachments/assets/6ffbf20f-fb2a-4510-b3cf-59cf7065ca09" />
+
